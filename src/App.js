@@ -2,7 +2,7 @@ import Display from "./component/Display";
 
 function App() {
   return (
-    <div className=" w-full ">
+    <div className=" w-full bg-[#1B1B3A] ">
       <Display />
     </div>
   );
